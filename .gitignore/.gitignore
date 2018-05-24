@@ -1,0 +1,7 @@
+.svn
+/.project
+/.gitignore
+/.settings/
+.DS_Store
+.bash_profile.swp
+.bash_profile.swo
